@@ -2,7 +2,7 @@ public class A{
 
 public static void main(String arr[]){
 
-System.out.println("ooo");
+System.out.println("Mukund");
 
 }
 }
