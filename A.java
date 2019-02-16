@@ -1,12 +1,12 @@
 public class A{
 
 public void ani(){
-System.out.println("Ani j Patil");
+System.out.println("Ani jaywant Patil");
 }
 
 public static void main(String arr[]){
 
-System.out.println("Mukund srajerao patil");
+System.out.println("Mukund patil");
 
 }
 }
